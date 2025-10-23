@@ -1,5 +1,12 @@
 # Hospital Scheduling App
 
+Team name : Vetcare
+Team member :
+Mudavath Kalyan
+Malavath Rahul
+Korra Praveen
+Keerthi
+
 ## Overview
 The Hospital Scheduling App is a monolithic application built using the MERN stack (MongoDB, Express, React, Node.js) with a Vite React frontend. This application allows for efficient management of patients, doctors, and appointment scheduling.
 
